@@ -5,6 +5,8 @@
   <img src="https://komarev.com/ghpvc/?username=itzvenom&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
 </p>
 
+
+
 ## 👨‍💻 About Me
 
 I'm a **cybersecurity professional with Web & API, Mobile (Android), Network and AD Exploitation** as core focus, currently working as a Training Developer at Hack The Box. 
@@ -13,6 +15,13 @@ Transitioned from a decade-long career in hospitality into the cybersecurity fie
 With hands of experience as an Offensive Security Operator/Penetration Tester, doing security consulting across multiple industries. My efforts directly supported enhancing clients’ security postures by identifying and providing recommendations regarding mitigations in various environments.  
   
 I hold several respected certifications from **GIAC, HTB, PortSwigger, CompTIA**, and other industry-leading organizations. Actively contributed to the cybersecurity community by participating in - and speaking at - Hack The Box meetups in Portugal, helping foster local engagement and learning.
+
+---
+
+## 🧑‍💻 Platforms
+
+[![Hack The Box](https://www.hackthebox.com/badge/image/1175044)](https://app.hackthebox.com/users/1175044) 
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/itzv3nom.png)](https://tryhackme.com/p/itzv3nom)   
 
 ---
 
