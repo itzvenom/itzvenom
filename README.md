@@ -1,16 +1,55 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sérgio</h1>
+<h3 align="center">Offensive Security Professional | Penetration Tester | CTF Player </h3>
 
-<!--
-**itzvenom/itzvenom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=itzvenom&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+</p>
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a **cybersecurity professional with Web & API, Mobile (Android), Network and AD Exploitation** as core focus, currently working as a Training Developer at Hack The Box. 
+Transitioned from a decade-long career in hospitality into the cybersecurity field, bringing a strong customer-centric mindset and a unique perspective to technical problem-solving.  
+  
+With hands of experience as an Offensive Security Operator/Penetration Tester, doing security consulting across multiple industries. My efforts directly supported enhancing clients’ security postures by identifying and providing recommendations regarding mitigations in various environments.  
+  
+I hold several respected certifications from **GIAC, HTB, PortSwigger, CompTIA**, and other industry-leading organizations. Actively contributed to the cybersecurity community by participating in - and speaking at - Hack The Box meetups in Portugal, helping foster local engagement and learning.
+
+---
+
+## 🎯 Focus Areas
+
+|**Area**|**Skills & Tools**|
+|---|---|
+|🔓 **Web & API Pentesting**|Identifying OWASP Top 10 vulnerabilities, analyzing API logic flaws, performing authentication and authorization bypass tests|
+|📱 **Android Pentesting**|Assessing mobile app security, reviewing APKs for insecure storage, analyzing traffic with Burp Suite/Frida, testing for root/jailbreak detection bypass|
+|🧱 **Active Directory Security Assessments**|Performing comprehensive AD security reviews, evaluating privilege escalation paths, identifying misconfigurations, and assessing domain hardening effectiveness|
+|🌐 **Network Security Assessments**|Conducting network reconnaissance and vulnerability assessments, evaluating segmentation controls, identifying exposure risks, and validating remediation effectiveness|
+|🧾 **Reporting & Client Support**|Delivering clear, actionable reports that guide clients in strengthening their security posture, prioritizing risks, and implementing effective remediation strategies aligned with best practices|
+
+___
+## 🎓 Certifications
+
+**Offensive Security**
+- **CWES** - Hack The Box, Certified Web Exploitation Specialist
+* **ASCP** – APISec University, API Security Certified Professional
+* **CAPenX** - SecOps Group, Certified AppSec Pentesting eXpert
+* **(In Progress) CPTS** – Hack The Box,  Certified Penetration Testing Specialist 
+
+**Defensive & Cloud**
+* **BTL1** – Security Blue Team, Blue Team Level 1
+* **SAL1** – TryHackMe, Security Analyst Level 1
+
+**Other Notables**
+* **GSEC** – SANS GIAC, Security Essentials
+* **GFACT** – SANS GIAC, Foundational Cybersecurity 
+* **SY0-601** – CompTIA, Security+
+* **CLF-C02** – AWS, AWS Cloud Practitioner
+* **CRTA** – CyberWarFare Labs, Certified Red Team Analyst 
+- **MCRTA** – CyberWarFare Labs, Multi-Cloud Red Team Analyst
+- **CNPen** – SecOps Group, Certified Network Pentester
+- **CAPen** – SecOps Group, Certified AppSec Pentester
+
+---
+## 🌍 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]](https://linkedin.com/in/sergio-charruadas)  
