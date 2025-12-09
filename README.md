@@ -20,7 +20,7 @@ I hold several respected certifications from **GIAC, HTB, PortSwigger, CompTIA**
 
 ## 🧑‍💻 Platforms
 
-<a href="https://app.hackthebox.com/users/1175044">
+<a href="https://app.hackthebox.com/public/users/1175044">
   <img src="https://www.hackthebox.com/badge/image/1175044"
        width="329"
        height="88"
