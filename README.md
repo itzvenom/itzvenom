@@ -46,20 +46,20 @@ ___
 
 **Offensive Security**
 - **CWES** - Hack The Box, Certified Web Exploitation Specialist
-* **ASCP** – APISec University, API Security Certified Professional
-* **CAPenX** - SecOps Group, Certified AppSec Pentesting eXpert
-* **(In Progress) CPTS** – Hack The Box,  Certified Penetration Testing Specialist 
+- **ASCP** – APISec University, API Security Certified Professional
+- **CAPenX** - SecOps Group, Certified AppSec Pentesting eXpert
+- **(In Progress) CPTS** – Hack The Box,  Certified Penetration Testing Specialist 
 
 **Defensive & Cloud**
-* **BTL1** – Security Blue Team, Blue Team Level 1
-* **SAL1** – TryHackMe, Security Analyst Level 1
+- **BTL1** – Security Blue Team, Blue Team Level 1
+- **SAL1** – TryHackMe, Security Analyst Level 1
 
 **Other Notables**
-* **GSEC** – SANS GIAC, Security Essentials
-* **GFACT** – SANS GIAC, Foundational Cybersecurity 
-* **SY0-601** – CompTIA, Security+
-* **CLF-C02** – AWS, AWS Cloud Practitioner
-* **CRTA** – CyberWarFare Labs, Certified Red Team Analyst 
+- **GSEC** – SANS GIAC, Security Essentials
+- **GFACT** – SANS GIAC, Foundational Cybersecurity 
+- **SY0-601** – CompTIA, Security+
+- **CLF-C02** – AWS, AWS Cloud Practitioner
+- **CRTA** – CyberWarFare Labs, Certified Red Team Analyst 
 - **MCRTA** – CyberWarFare Labs, Multi-Cloud Red Team Analyst
 - **CNPen** – SecOps Group, Certified Network Pentester
 - **CAPen** – SecOps Group, Certified AppSec Pentester
