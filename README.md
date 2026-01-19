@@ -14,7 +14,7 @@ Transitioned from a decade-long career in hospitality into the cybersecurity fie
   
 With hands of experience as an Offensive Security Operator/Penetration Tester, doing security consulting across multiple industries. My efforts directly supported enhancing clients’ security postures by identifying and providing recommendations regarding mitigations in various environments.  
   
-I hold several respected certifications from **GIAC, HTB, PortSwigger, CompTIA**, and other industry-leading organizations. Actively contributed to the cybersecurity community by participating in - and speaking at - Hack The Box meetups in Portugal, helping foster local engagement and learning.
+I hold several respected certifications from **GIAC, HTB, OffSec, PortSwigger**, and other industry-leading organizations. Actively contributed to the cybersecurity community by participating in - and speaking at - Hack The Box meetups in Portugal, helping foster local engagement and learning.
 
 ---
 
@@ -46,11 +46,12 @@ ___
 
 **Offensive Security**
 - **CWES** - Hack The Box, Certified Web Exploitation Specialist
+- **OSCP** - OffSec, Offsec Certified Professional
 - **ASCP** – APISec University, API Security Certified Professional
 - **CAPenX** - SecOps Group, Certified AppSec Pentesting eXpert
 - **(In Progress) CPTS** – Hack The Box,  Certified Penetration Testing Specialist 
 
-**Defensive & Cloud**
+**Defensive**
 - **BTL1** – Security Blue Team, Blue Team Level 1
 - **SAL1** – TryHackMe, Security Analyst Level 1
 
@@ -61,6 +62,7 @@ ___
 - **CLF-C02** – AWS, AWS Cloud Practitioner
 - **CRTA** – CyberWarFare Labs, Certified Red Team Analyst 
 - **MCRTA** – CyberWarFare Labs, Multi-Cloud Red Team Analyst
+- **C-APIPen** - Certified API Pentester
 - **CNPen** – SecOps Group, Certified Network Pentester
 - **CAPen** – SecOps Group, Certified AppSec Pentester
 
