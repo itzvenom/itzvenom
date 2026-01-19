@@ -69,4 +69,9 @@ ___
 ---
 ## 🌍 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sergio-charruadas)  
+<a href="https://linkedin.com/in/sergio-charruadas">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"
+       width="329"
+       height="88"
+       alt="LinkedIn profile">
+</a>
