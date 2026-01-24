@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **cybersecurity professional with Web & API, Mobile (Android), Network and AD Exploitation** as core focus, currently working as a Training Developer at Hack The Box. 
+My name is Sérgio Charruadas aka itzv3nom- and I'm a **cybersecurity professional with Web & API, Mobile (Android), Network and AD Exploitation** as core focus, currently working as a Training Developer at Hack The Box. 
 Transitioned from a decade-long career in hospitality into the cybersecurity field, bringing a strong customer-centric mindset and a unique perspective to technical problem-solving.  
   
 With hands of experience as an Offensive Security Operator/Penetration Tester, doing security consulting across multiple industries. My efforts directly supported enhancing clients’ security postures by identifying and providing recommendations regarding mitigations in various environments.  
