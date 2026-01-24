@@ -49,20 +49,21 @@ ___
 - **OSCP** - OffSec, Offsec Certified Professional
 - **ASCP** – APISec University, API Security Certified Professional
 - **CAPenX** - SecOps Group, Certified AppSec Pentesting eXpert
-- **(In Progress) CPTS** – Hack The Box,  Certified Penetration Testing Specialist 
+- **(In Progress) CPTS** – Hack The Box, Certified Penetration Testing Specialist 
 
 **Defensive**
 - **BTL1** – Security Blue Team, Blue Team Level 1
 - **SAL1** – TryHackMe, Security Analyst Level 1
 
-**Other Notables**
+**Other Notable**
 - **GSEC** – SANS GIAC, Security Essentials
 - **GFACT** – SANS GIAC, Foundational Cybersecurity 
 - **SY0-601** – CompTIA, Security+
 - **CLF-C02** – AWS, AWS Cloud Practitioner
-- **CRTA** – CyberWarFare Labs, Certified Red Team Analyst 
+- **CRTA** – CyberWarFare Labs, Certified Red Team Analyst
+- **AD-RTS** – CyberWarFare Labs, Active Directory Red Team Specialist
 - **MCRTA** – CyberWarFare Labs, Multi-Cloud Red Team Analyst
-- **C-APIPen** - Certified API Pentester
+- **C-APIPen** - SecOps Group, Certified API Pentester
 - **CNPen** – SecOps Group, Certified Network Pentester
 - **CAPen** – SecOps Group, Certified AppSec Pentester
 
