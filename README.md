@@ -45,11 +45,11 @@ ___
 ## 🎓 Certifications
 
 **Offensive Security**
+- **CPTS** – Hack The Box, Certified Penetration Testing Specialist 
 - **CWES** - Hack The Box, Certified Web Exploitation Specialist
-- **OSCP** - OffSec, Offsec Certified Professional
 - **ASCP** – APISec University, API Security Certified Professional
 - **CAPenX** - SecOps Group, Certified AppSec Pentesting eXpert
-- **(In Progress) CPTS** – Hack The Box, Certified Penetration Testing Specialist 
+- **OSCP** - OffSec, Offsec Certified Professional
 
 **Defensive**
 - **BTL1** – Security Blue Team, Blue Team Level 1
